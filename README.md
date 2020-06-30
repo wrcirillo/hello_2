@@ -1,2 +1,2 @@
 # hello_2
-aprendendo
+aprendendo a usar o GIT
